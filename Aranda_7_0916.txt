@@ -1,0 +1,4 @@
+1: Tinker
+2: ask questions and help others.
+3: No hand-held electronics.
+Why: So that we can be as successful as possible in Computer Science.
