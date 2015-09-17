@@ -1,0 +1,6 @@
+1: int- integer
+2: float- 32 bit
+3: short, long, double- 16, 64, 64 these are for decimals.
+4: char-character
+5: string-bunch of characters.
+6: boolean- true, false. on and off.
