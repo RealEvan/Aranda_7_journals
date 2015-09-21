@@ -1,0 +1,11 @@
+begin:
+E:
+	move Right 1
+	move down 1
+	move Right 1
+	move down 1
+	move Right 1
+V:
+	turn right 25 degrees
+A: 
+
