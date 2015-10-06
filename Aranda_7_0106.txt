@@ -1,0 +1,4 @@
+1: Methods are ways used to solve particularly difficult problems, or multiple problems with similar qualities.
+2: A class is a category of things that have similar if not exact qualities.
+3: An instance is an example.
+4: A class method is a method that is only within the class it was designated for.
