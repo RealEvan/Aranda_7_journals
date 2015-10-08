@@ -1,0 +1,7 @@
+1: My plans for my art project are to create colorful moving squares.
+2: I don't know what methods I might use.
+3: I might incorporate a forloop to keep the squares moving.
+4: I might incorporate an if else to keep the squares in a certain spot.
+5: I do not know what math I might use.
+
+
