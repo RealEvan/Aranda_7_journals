@@ -1,0 +1,3 @@
+1: My guessing game is a game.
+2: It's a game because you have to guess what the number is.
+3: It could be made better if I could coose the sequence in which numbers are chosen to be guessed at.
