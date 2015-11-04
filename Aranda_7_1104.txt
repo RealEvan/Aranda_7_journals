@@ -1,0 +1,4 @@
+1: a method is a way to write a program within a program to do specific actions.
+2: I used the else if and if then.
+3: A while loop is a loop that only happens when certain things occur.
+4: I had a while loop for the play again function.
