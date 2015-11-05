@@ -1,0 +1,4 @@
+1: A string is a sequence of characters that perform a specific function in a program.
+2: Strings are good for any type of programming.
+3: "Public static int Something();"
+4: We identify string methods by checking to see which methods work on strings and which ones don't.
