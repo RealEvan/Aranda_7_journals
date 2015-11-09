@@ -1,0 +1,4 @@
+1: I am not very ready to start coding my game.
+2: I'm ok at making story lines, but I have tons of trouble coding.
+3: My biggest challenges will be probably coding everything from the title of the game, to the end of the game.
+4: Because I am not very good at coding anything.
