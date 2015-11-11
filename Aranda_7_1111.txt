@@ -1,0 +1,3 @@
+1: In my game, the player must get across the street without getting hit.
+2: If they get across the street, then it says that they win.
+3: I don't have any variable types or classes yet.
