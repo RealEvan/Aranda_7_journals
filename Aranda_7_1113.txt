@@ -1,0 +1,2 @@
+1: I most likely won't use while loops in my game since I can barely code anything.
+2: I will use methods to allow the player to interact with the game.
