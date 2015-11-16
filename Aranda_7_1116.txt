@@ -1,0 +1,1 @@
+1: I will use methods to have text, so that the players will be able to interact with the game. There will be times when you have to make decisions, so the player will be able to input what their decision is.
