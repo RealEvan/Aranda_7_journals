@@ -1,0 +1,2 @@
+1: The purpose of the code art is to get me to be familiar with methods.
+2: The purpose of creating art with code is to learn how to use methods.
