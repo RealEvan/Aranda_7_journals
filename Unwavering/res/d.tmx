@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="100" tilewidth="64" tileheight="64" nextobjectid="1">
+ <tileset firstgid="1" name="tile_1" tilewidth="64" tileheight="64" tilecount="16">
+  <image source="tile_1.png" width="256" height="256"/>
+  <terraintypes>
+   <terrain name="New Terrain" tile="-1"/>
+  </terraintypes>
+  <tile id="0">
+   <properties>
+    <property name="blocked" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1" terrain=",,,0"/>
+  <tile id="2" terrain=",,0,"/>
+  <tile id="5" terrain=",0,,0">
+   <properties>
+    <property name="visible" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6" terrain="0,,0,"/>
+  <tile id="9" terrain=",0,,0"/>
+  <tile id="10" terrain="0,,0,"/>
+  <tile id="13" terrain=",0,,"/>
+  <tile id="14" terrain="0,,,"/>
+ </tileset>
+ <tileset firstgid="17" name="tile_2" tilewidth="64" tileheight="64" tilecount="16">
+  <image source="tile_2.png" width="256" height="256"/>
+  <tile id="0">
+   <properties>
+    <property name="blocked" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="33" name="trippy" tilewidth="64" tileheight="64" tilecount="16">
+  <image source="256px-Grid_illusion.svg.png" width="256" height="256"/>
+ </tileset>
+ <layer name="bottom" width="50" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+1Z7W7DMAjMq2Sf7dZtff+nm/+gMYtgsMGQzUinCbVzwL4DnG7b37G94KHgseDphD7Yc8FLwWvB5YQ+2LXgreC94HZCH+yj4LPgq+B+Qh8smt9LH0sfGX2waH4vfSx9ZPTBovm99LH0kdEHi+b30sfSR0YfLJrfSx9LHxl9sGh+L30sfWT0waL5vfSx9JHRB4vm99LH0kdGHyya3/9ZH1Qu0fzu8SmtR/O7x6e0Hs3vHp/Sega+L33M04cHryL04cGrCH148CpCHx68pfSRoY5a6CNDHbXQR4Y6aqGPDHPGqD5wTpn4r9UHzikT/7X6wHlm4r9WHzjPTPzX6gPneSaN1GeE8/TUiPXMxenjtvlxurWfo+vhHO+bH6d34tkj/OL08TiwruS59WcjfOX08TqwruS5dR4jfOXualSftPKps7DgK/zF+0f1SQuf0gWl1VHfGlzfxWdhzWFreOwN4IjD+8kBZ/0cDI7jGv5fDTBDfy0ufzRw1Ic5aDnhoaPW+h7xedQa4CwVkzZO6TNvBqj3Et4BYx0exW4V390Adf2A30gAdT5SPmni8ziPffut8zqfVg217AlPir2g+E/lJKm/lj2Fy62+w162nzl3b6zdqs/SXHv344i7mFfwXckzJPmMgssNz4VQb0DnmhjxmXrNglxu9fsdPJdQMXK1waNvSecOShvU+5NZddIaUo325DsTLY5K5xANR3A9xTWpVVuOOFWv6TV/1r3gKPaR2uLRj7m4udhHamFPPx6Jm4t9pJ4d8UkTpyZuix4knRNbsWp7vtWeA1r6kMaq6fkevYLKrSfW6D7C9UEu1hmzoXa2k/bB0bu3VY2W1pRZPUMblxRwVlZ3uNF4eu83wDWrO5zVfau31s3QZE9tjZ6frYD3QXL2XryaycnPjv+Z3SekPOT2xauWcTN876zwDXwYX2wgTgAA
+  </data>
+ </layer>
+ <layer name="walls" width="50" height="100">
+  <properties>
+   <property name="blocked" value="true"/>
+  </properties>
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2YUW7EMAhEc4X96P2vWvUjUmUZGAZIstE8yarlYMzYwEr9HMfxeck4+T8/lnXvW8e6BRPft+r4cezWOWqXne/yAgHNq6t07OYIbHxo/lXmbC0/SUeFio7K3e3mFVgdqw/kHM9vxz3dqSNr4/lnaxCxy8TYqcPyG/mI1q/owW/SwdZVtUdd8R472+icrrp5qo6KDQKSL9b5k32pS0dHXGw/r4y7dCAg9qwO5q4zca0xIjaoDsv3VC4h9nfriJio80xfeooO1F/nO1XyytpztQ7EJ0K23pB9UeyTOlDbrO/KnBnZuLL2E71gPStzD6hdZ39DWP+f6FHJ8c6e3ZlXd+rYcb7HVJ5055h3T0y/6+qvXfNMfVRiye617D0/bN/uiKtLB/selr9qrWTHurdC19tUyParjv5zAOtZWA3VPtM1TrrrA1mfoLs+kPUJKvVhvXPH/oP0VWX1kfUb6WBi8M7I+ED3eX3D8o3G4MXjxZx92yivkPgQO+utEV+Mpt0+9I6QfpOpPcsuwtIRxel9Z9/W2oP2N++s6D6QmKs6rO+72KJYEZ2RDZpDlX5eqQO210TfM70muuvoXPbu0Nqt9Jrdd7YPsGfv7JE+Z9mz56JxTYDmWOd5E2T6Tdd5k37XtZ3dBBP99+ocs2B/e5B7mKxRhM6zv0kH+16TZM++874t3qDhj2wuPFnH+RcdQgghhBBCCCGEEEIIIYQQQgix8gtOiCHBIE4AAA==
+  </data>
+ </layer>
+</map>
