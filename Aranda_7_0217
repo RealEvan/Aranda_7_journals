@@ -1,0 +1,16 @@
+1: Arrays are used to define a set of variables.
+2: The code for an int array:
+int[] anArray;
+3: The code for a String array:
+string[] anArray;
+4: The code for a boolean array:
+boolean[] anArray;
+5: The code for a double array:
+double[] anArray;
+6: You can do that by typing:
+anArray[0] = 42;
+7: You can do that by typing:
+anArray[0] = "Bob";
+8: The code creates a private string array called dessert that holds 3 variables.
+9: The code creates a private string called pastries that has 3 variables called rice pudding, pan dulce, and bunuelos.
+10: One of the strings has variables with names while the other has the potential for variables with names.
