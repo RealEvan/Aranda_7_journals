@@ -1,0 +1,3 @@
+To get the orb to move in the direction you are facing you would set up the orb to move along the Y or X axis in which you are facing. In order to do that you would need to put this:
+orb1.hitbox.setX(orb1.getX());
+orb1.hitbox.setY(orb1.getY());
