@@ -1,0 +1,1 @@
+You would setup the weapon hitbox to subtract HP from the object whenever it intersects the objects hitbox. The way you could check whether or not the weapon does damage is to set up an HP counter for the object you will use the weapon on.
