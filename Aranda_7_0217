@@ -14,3 +14,4 @@ anArray[0] = "Bob";
 8: The code creates a private string array called dessert that holds 3 variables.
 9: The code creates a private string called pastries that has 3 variables called rice pudding, pan dulce, and bunuelos.
 10: One of the strings has variables with names while the other has the potential for variables with names.
+11: Make bunuelos equal apple pie so that it will print apple pie instead of bunuelos.
