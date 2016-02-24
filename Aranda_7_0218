@@ -1,0 +1,20 @@
+1: It would be unrealistic to memorize Slick syntax because it is very specific. Rather, we should focus on skills that have maximm return on investment.(ROI)
+1a: Slick is but one library among thousands of java libraries. Consequently, we are better served by learning skills such as how to decode and implement java libraries.
+The important part of what we are doing is problem solving and pattern recognition, i.e., computational thinking.
+2: An Array is an ordered list containing one data type.
+3: We make an array like this: 
+String[] michael = {"john","sally","sue","stormy"};
+int[] myFavoriteNumbers = new int[42];
+
+
+4: An ArrayList can contain multiple data types.
+5: To make an ArrayList with a specific type, we use <> : 
+ArrayList<stuff> things = new ArrayList();
+things.add(moreStuff);
+6: I identified the boolean, int, and Object methods.
+7: An array is static, i.e., it has a fixed size, whereas arraylists are dynamic, i.e., their size can change.
+8: We could make a health counter for an avatar by doing this: 
+
+int health = 5;
+if(playerIsHit) {
+health -=1 }
