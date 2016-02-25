@@ -1,0 +1,4 @@
+1: The code below imports an array library, and makes a double array character value in the main class.
+2: System.out.println(map[0][0]);
+2a: You would change the i and j to both zeros.
+3: You could make this a 5 in a row game by using the code to define a 5 in a row matrix. 
