@@ -1,0 +1,6 @@
+1: public class Rat {}
+2: Rat rat1;
+rat1 = new Rat();
+
+3: The declaration goes at the top of the code, and the instanciating goes in the init class.
+4: int[][] ratcoon = rat1 
