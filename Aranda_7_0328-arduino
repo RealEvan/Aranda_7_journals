@@ -1,0 +1,13 @@
+I have noticed that both Arduino and the C programming language both use if else statements.
+Unlike the C programming language, Arduino uses the command buzz_sound.
+Just like the C programming language, Arduino uses while loops.
+My partner and I have taken the simon says code and altered the buzz length to create a higher and faster note.
+To get a circuit the GND pin has to be connected to a negative pin and the 5V pin has to be connected to a positive pin.
+Arduino compiles programs by gathering the important files and temporarily altering them so that the Arduino can interpret and run the compiled program.
+In the past week I have completed multiple LED projects such as Blinking an LED in which I created an LED that turns on and off on its own. 
+Another project I have completed was the Simon Says project where I used 4 push buttons, 4 LEDs, the piezo buzzer, 4 330 resistors, and 17 wires, 
+to create a Simon Says game where you push any button to start and the program plays a sound and lights up a certain light in which you 
+must push the button that was picked in the order it was done or else you lose. I have also done the potentiometer project where you use a little knob to adjust pitches that come from the buzzer.
+I completed the soft potentiometer project which uses a thin pressure sensor to adjust the color of the RGB LED.
+I completed the piezo buzzer project which just plays a song you program into it.
+I also completed the LCD project which uses the LCD screen to display the time and allows you to adjust the contrast and brightness of the LCD screen.
