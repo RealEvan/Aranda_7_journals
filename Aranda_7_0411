@@ -3,4 +3,11 @@ Assembly language is a low level programming language for a computer.
 What is it good for?
 Assembly language gives direct and complete control over system hardware.
 How is assembly different than Java?
-
+Assembly language programs only contain code that is necessary to complete a given task.
+What are differences between high level and low level languages?
+High level languages use mnemonics, digital numbers, comments, etc.
+Low level languages use a sequence of 1s and 0s.
+Which type is Java? How did you know, i.e., what characteristics does it have of that language type?
+Java is a high level language. In Java you use characters like letters, numbers, and symbols rather than only using 1s and 0s.
+Which type is Assembly? How do you know, i.e., what characteristics does it have of that language type?
+Assembly is a high level language because it uses characters like Java and doesn't use sequences of 1s and 0s.
