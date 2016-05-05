@@ -1,0 +1,7 @@
+Elf 64 is used to classify the OS which is 64 bit.
+Id was used to identify the specific program to run.
+Chmod was not used because the program is executable by default.
+db	"Evan", 10	   ;
+I had to find where the text was generated and replace it with my name.
+I think Assembly is "quick and easy" because it is very easy to find problems and fix them.
+Low level programming language is regarding to binary code.
