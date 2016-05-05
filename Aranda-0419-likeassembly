@@ -1,0 +1,2 @@
+Assembly and human resource machine both use chars rather than 1s and 0s.
+Human Resource Machine uses whole words while Assembly uses abbreviations i.e., in Human Resource Machine you would use Jump, but in Assembly you would use Jmp.
