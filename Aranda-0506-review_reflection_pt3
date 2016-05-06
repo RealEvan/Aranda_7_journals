@@ -1,0 +1,19 @@
+if (i=0){ System.out.print("8888"); #a
+The code prints out 8888.
+
+System.out.print(map[i][j]); #b
+The code creates a map.
+
+System.out.println("."); #c
+This code prints one line with just a dot.
+
+System.out.println(map[i][j]); #d
+This code prints a new line.
+
+You would type public static boolean and set up something like this
+public static boolean 
+while y=mx+b;
+x=13;
+
+Static is used to prevent a file from being changed all the time.
+ You could use a portal in your game to replace a finish point.
