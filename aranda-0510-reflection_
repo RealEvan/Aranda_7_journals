@@ -1,0 +1,7 @@
+public static class Hero;
+int power, dexterity, perception, level, x, y, z, symbol;
+static int x = 27;
+static int y = 16;
+char icon = @;
+
+You wouldn't initialize the hero in the hero class because that would completely disturb the way the class is supposed to work. It would cause the class to constantly mistake one hero for the other. 
