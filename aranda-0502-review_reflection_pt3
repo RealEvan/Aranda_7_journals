@@ -1,0 +1,4 @@
+X = 1
+Y = 0
+if (i=0){ System.out.print("8888"); #a
+This code detects if i equals zero and if it does it prints out four 8's
