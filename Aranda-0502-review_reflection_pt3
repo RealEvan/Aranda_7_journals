@@ -1,0 +1,11 @@
+X = 1
+Y = 0
+if (i=0){ System.out.print("8888"); #a
+This code detects if i equals zero and if it does it prints out four 8's
+System.out.print(map[i][j]); #b
+This code prints out the map within the computer
+System.out.println("."); #c
+This code prints out a series of dots and prints them in a different direction than #e.
+System.out.println(map[i][j]); #d
+This code prints out the actual map in a visual manner.
+Static is used to make anything usable.
